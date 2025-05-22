@@ -1,7 +1,7 @@
-##Shanti Kiran Yoga Platform
+## Shanti Kiran Yoga Platform
 Shanti Kiran is a responsive, multi-page web application that promotes physical, mental, and spiritual wellness through yoga and mindful living. It serves as a bridge to peace by offering yoga classes, resources, and community interaction in a calm and inspiring interface.
 
-##Project Structure
+## Project Structure
 
 This repository includes the following main HTML files:
 
@@ -17,7 +17,7 @@ File Description
 - Signup.html --> Sign-up form with client-side validation and backend fetch logic
 These files are interlinked for a seamless user experience.
 
-##Key Features
+## Key Features
 
 - Yoga Education: Learn about different yoga styles, their benefits, and how to start.
 - Tutorial Integration: Embedded YouTube videos categorized by skill level.
@@ -28,14 +28,14 @@ These files are interlinked for a seamless user experience.
 - Support Page: Contact form and support options including live chat placeholders.
 - User Registration: Front-end sign-up form with validation and fetch call to PHP backend.
 
-##Tech Stack
+## Tech Stack
 
 - HTML5 & CSS3
 - JavaScript
 - Responsive Design
 - PHP backend placeholder
 
-##Setup Instructions
+## Setup Instructions
 
 Clone or download this repository.
 Place the files in your web root directory (htdocs for XAMPP).
